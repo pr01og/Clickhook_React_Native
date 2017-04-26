@@ -3,6 +3,6 @@ clickhook.io
 
 React Native app 
 
-Sketch dessigns in the directoru ./sketch
+Sketch dessigns in the directory ./sketch
 
 
