@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "859327017548",
+    "firebase_url": "https://clickhook-mobile.firebaseio.com",
+    "project_id": "clickhook-mobile",
+    "storage_bucket": "clickhook-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859327017548:android:d08ca4e50b19f863",
+        "android_client_info": {
+          "package_name": "com.clickhookFly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859327017548-fv1sv4qgpkn5gfgdbins6iihhk3lm060.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt1wrqc3zfye27WDpAK5AFneNQbc9ggho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

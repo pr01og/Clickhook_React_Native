@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "1061850138.com.clickhook.fly",
+                "paths": ["NOT /forgot", "NOT /privacy","*"]
+            }
+        ]
+    }
+}
