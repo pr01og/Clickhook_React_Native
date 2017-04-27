@@ -1,8 +1,8 @@
-## gradle
 
-```
-MYAPP_RELEASE_STORE_FILE=clickhook.keystore
-MYAPP_RELEASE_KEY_ALIAS=clickhook
-MYAPP_RELEASE_STORE_PASSWORD=emethod123
-MYAPP_RELEASE_KEY_PASSWORD=emethod123
-```
+clickhook.io 
+
+React Native app 
+
+Sketch dessigns in the directory ./sketch
+
+
